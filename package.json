@@ -2,6 +2,7 @@
   "name": "calculator",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://SamanPrasad.github.io/sampleCalculator",
   "type": "module",
   "scripts": {
     "dev": "vite",
